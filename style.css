@@ -22,11 +22,11 @@
     font-size: 20px;
 }
 
-.escola-imagem{
+.TextoIni-imagem{
     width: 25%;
 }
 
-.escola{
+.Texto-Inicial{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
@@ -35,9 +35,9 @@
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.TextoIni-div-conteudo{
     width: 35%;
 }
-.escola-titulo{
+.TextoIni-titulo{
     padding: 24px 0;
 }
