@@ -54,6 +54,7 @@
     align-items: center;
     margin-bottom: 20px;
     color: white;
+    padding: 20px;
 }
 .imagemvf24{
     flex: 0 0 200px;
