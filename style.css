@@ -54,13 +54,16 @@
     align-items: center;
     margin-bottom: 20px;
     color: white;
+    padding: 20px;
 }
 .imagemvf24{
     flex: 0 0 200px;
     margin-right: 20px;
+    padding: 20px;
 }
 .ft1vf24{
     width: 55%;
+    padding: 20px;
 }
 body {
     
