@@ -69,18 +69,3 @@ body {
     
 background-color: black;
 }
-.Fotos2{
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-    color: white;
-}
-.imagemc44{
-    flex: 0 0 200px;
-    margin-right: 20px;
-    padding: 20px;
-}
-.ft2c44{
-    width: 55%;
-    padding: 20px;
-}
